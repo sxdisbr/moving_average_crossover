@@ -30,3 +30,7 @@ Clone this repository to your local machine using the following command:
 ```sh
 git clone https://github.com/sxdisbr/moving_average_crossover.git
 ```
+
+## Disclaimer
+
+This analysis is for educational purposes only and not financial advice. Always conduct your own research before making any investment decisions.
